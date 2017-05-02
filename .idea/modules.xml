@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/APTLearning.iml" filepath="$PROJECT_DIR$/APTLearning.iml" />
-      <module fileurl="file://$PROJECT_DIR$/annotationmodule/annotationmodule.iml" filepath="$PROJECT_DIR$/annotationmodule/annotationmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotation/annotation.iml" filepath="$PROJECT_DIR$/annotation/annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/compilermodule/compilermodule.iml" filepath="$PROJECT_DIR$/compilermodule/compilermodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compiler/compiler.iml" filepath="$PROJECT_DIR$/compiler/compiler.iml" />
     </modules>
   </component>
 </project>
