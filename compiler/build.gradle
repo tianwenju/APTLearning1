@@ -6,6 +6,6 @@ dependencies {
     compile 'com.squareup:javapoet:1.7.0'
     compile project(':annotation')
 }
-//
+
 sourceCompatibility = "1.7"
 targetCompatibility = "1.7"
