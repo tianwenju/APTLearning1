@@ -41,8 +41,8 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile project(':annotation')
     //apt project(':compiler')
-    annotationProcessor project(":compiler")
     compile project(':api')
+    annotationProcessor project(":compiler")
 }
 
 
